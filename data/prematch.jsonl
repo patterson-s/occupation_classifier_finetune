@@ -1,0 +1,86 @@
+{"prompt_occupation": "not employed", "completion": "not_employed"}
+{"prompt_occupation": "housewife", "completion": "not_employed"}
+{"prompt_occupation": "student", "completion": "not_employed"}
+{"prompt_occupation": "homemaker", "completion": "not_employed"}
+{"prompt_occupation": "other", "completion": "insufficient_information_gpt"}
+{"prompt_occupation": "owner", "completion": "Chief Executive"}
+{"prompt_occupation": "unemployed", "completion": "not_employed"}
+{"prompt_occupation": "vp", "completion": "Chief Executive"}
+{"prompt_occupation": "director", "completion": "Chief Executive"}
+{"prompt_occupation": "partner", "completion": "Chief Executive"}
+{"prompt_occupation": "it", "completion": "computer and information systems manager"}
+{"prompt_occupation": "professor", "completion": "postsecondary teachers, all other"}
+{"prompt_occupation": "Consultant", "completion": "Management Analyst"}
+{"prompt_occupation": "Associate", "completion": "insufficient_information_gpt"}
+{"prompt_occupation": "Disabled", "completion": "not_employed"}
+{"prompt_occupation": "Business Owner", "completion": "Chief Executive"}
+{"prompt_occupation": "Retired", "completion": "not_employed"}
+{"prompt_occupation": "attorney", "completion": "lawyer"}
+{"prompt_occupation": "teacher", "completion": "teachers and instructors, all other"}
+{"prompt_occupation": "engineer", "completion": " engineers, all other"}
+{"prompt_occupation": "physician", "completion": " physicians, all other"}
+{"prompt_occupation": "sales", "completion": "sales and related workers, all other"}
+{"prompt_occupation": "manager", "completion": " managers, all other"}
+{"prompt_occupation": "president", "completion": "chief executive"}
+{"prompt_occupation": "software engineer", "completion": "computer systems engineers/architect"}
+{"prompt_occupation": "realtor", "completion": "real estate broker"}
+{"prompt_occupation": "ceo", "completion": "chief executive"}
+{"prompt_occupation": "lawyer", "completion": " lawyer"}
+{"prompt_occupation": "rn", "completion": " registered nurse"}
+{"prompt_occupation": "accountant", "completion": "accountants and auditor"}
+{"prompt_occupation": "executive", "completion": "chief executive"}
+{"prompt_occupation": "educator", "completion": "teachers and instructors, all other"}
+{"prompt_occupation": "writer", "completion": "writers and author"}
+{"prompt_occupation": "project manager", "completion": " project management specialist"}
+{"prompt_occupation": "social worker", "completion": " social workers, all other"}
+{"prompt_occupation": "nurse", "completion": " registered nurse"}
+{"prompt_occupation": "artist", "completion": " artists and related workers, all other"}
+{"prompt_occupation": "truck driver", "completion": " heavy and tractor-trailer truck driver"}
+{"prompt_occupation": "registered nurse", "completion": " registered nurse"}
+{"prompt_occupation": "architect", "completion": " architects, except landscape and naval"}
+{"prompt_occupation": "farmer", "completion": " farmers, ranchers, and other agricultural manager"}
+{"prompt_occupation": "real estate broker", "completion": " real estate broker"}
+{"prompt_occupation": "psychologist", "completion": "psychologists, all other"}
+{"prompt_occupation": "scientist", "completion": "physical scientists, all other"}
+{"prompt_occupation": "cpa", "completion": " accountants and auditor"}
+{"prompt_occupation": "dentist", "completion": " dentists, general"}
+{"prompt_occupation": "designer", "completion": " designers, all other"}
+{"prompt_occupation": "administrator", "completion": " administrative services manager"}
+{"prompt_occupation": "pharmacist", "completion": " pharmacist"}
+{"prompt_occupation": "software developer", "completion": " software developer"}
+{"prompt_occupation": "vice president", "completion": "chief executive"}
+{"prompt_occupation": "pilot", "completion": "airline pilots, copilots, and flight engineer"}
+{"prompt_occupation": "finance", "completion": "financial manager"}
+{"prompt_occupation": "musician", "completion": " musicians and singer"}
+{"prompt_occupation": "firefighter", "completion": "firefighter"}
+{"prompt_occupation": "librarian", "completion": "librarians and media collections specialist"}
+{"prompt_occupation": "electrician", "completion": "electrician"}
+{"prompt_occupation": "office manager", "completion": " facilities manager"}
+{"prompt_occupation": "executive director", "completion": "chief executive"}
+{"prompt_occupation": "editor", "completion": "editor"}
+{"prompt_occupation": "program manager", "completion": "project management specialist"}
+{"prompt_occupation": "doctor", "completion": "physicians, all other"}
+{"prompt_occupation": "pastor", "completion": " clergy"}
+{"prompt_occupation": "psychotherapist", "completion": "psychologists, all other"}
+{"prompt_occupation": "programmer", "completion": "computer programmer"}
+{"prompt_occupation": "management", "completion": " managers, all other"}
+{"prompt_occupation": "graphic designer", "completion": " graphic designer"}
+{"prompt_occupation": "insurance agent", "completion": "insurance sales agent"}
+{"prompt_occupation": "carpenter", "completion": " carpenter"}
+{"prompt_occupation": "paralegal", "completion": " paralegals and legal assistant"}
+{"prompt_occupation": "financial advisor", "completion": " financial specialists, all other"}
+{"prompt_occupation": "photographer", "completion": "photographer"}
+{"prompt_occupation": "mechanic", "completion": " automotive service technicians and mechanic"}
+{"prompt_occupation": "education", "completion": "teachers and instructors, all other"}
+{"prompt_occupation": "md", "completion": "physicians, all other"}
+{"prompt_occupation": "retail", "completion": " retail salesperson"}
+{"prompt_occupation": "sales manager", "completion": "sales manager"}
+{"prompt_occupation": "investor", "completion": "investment fund manager"}
+{"prompt_occupation": "cfo", "completion": " chief executive"}
+{"prompt_occupation": "counselor", "completion": "counselors, all other"}
+{"prompt_occupation": "instructor", "completion": "teachers and instructors, all other"}
+{"prompt_occupation": "therapist", "completion": " therapists, all other"}
+{"prompt_occupation": "clerk", "completion": "office clerks, general"}
+{"prompt_occupation": "general manager", "completion": "general and operations manager"}
+{"prompt_occupation": "bookkeeper", "completion": " bookkeeping, accounting, and auditing clerk"}
+{"prompt_occupation": "customer service", "completion": "customer service representative"}
